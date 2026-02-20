@@ -105,15 +105,9 @@ yarn dev
 4. Branch را Push کنید (`git push origin feature/amazing-feature`)
 5. یک Pull Request ایجاد کنید
 
-## 📞 تماس با من
+#)
 
-- **ایمیل**: [your-email@example.com]
-- **گیت‌هاب**: [@hosseinkeyvani](https://github.com/hosseinkeyvani)
-- **لینکدین**: [پروفایل لینکدین](https://linkedin.com/in/your-profile)
-
-## 📄 مجوز
-
-این پروژه تحت مجوز **MIT** منتشر شده است - برای اطلاعات بیشتر فایل [LICENSE](LICENSE) را ببینید.
+#.
 
 ---
 
